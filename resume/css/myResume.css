@@ -1,0 +1,163 @@
+
+ul li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*背景*/
+.bg{
+	/*position: absolute;
+	top: 50px;
+	left: 0;*/
+	margin-top: 50px;
+	background: url("../img/bg/img1.jpg") 0 0 no-repeat;
+	width: 100%;
+	height: 650px;
+	opacity: .8;
+	position: relative;
+}
+.aboutMe{
+	width: 100%;
+	height: 650px;
+	margin:0 auto;
+	padding-top: 150px;
+	/*background:url("../img/bg/img1.jpg") 0 0 no-repeat;*/
+}
+.isBorder{
+	width: 400px;
+	height: 350px;
+	position: absolute;
+	top: 150px;
+	left: 50%;
+	margin-left: -200px;
+	border:3px solid #FF5511;
+	box-shadow: 0 0 10px #C63300;
+}
+
+.aboutMe li{
+	height: 30px;
+	line-height: 30px;
+}
+.a-center h3{
+	text-align: center;
+	margin-top: 30px;
+	color: #fff;
+}
+.imformation,.imfor{
+	margin-top: 20px;
+	color: #fff;
+}
+.imformation li{
+	text-align: right;
+	
+}
+.hope{
+	margin-top: 10px;
+	text-align: center;
+	color: #fff;
+}
+.clearBoth{
+	clear: both;
+}
+/*我会什么*/
+
+/*背景2*/
+.bg-two{
+	width: 100%;
+	height: 650px;
+	background: url("../img/bg/img3.jpg") 0 0 no-repeat;
+	position: relative;
+}
+
+.isBorder-two{
+	width: 400px;
+	height: 350px;
+	border:3px solid #FF5511;
+	box-shadow: 0 0 10px #C63300;
+	position: absolute;
+	top: 150px;
+	right: 50px;
+	
+}
+.iCan{
+	margin-top: 50px;
+}
+.iCan-two{
+	margin-top: 50px;
+}
+.two{
+	width: 400px;
+	height: 350px;
+	position: absolute;
+	right: 50px;
+	
+}
+.two h3{
+	text-align: center;
+	margin-top:200px;
+	color: #fff;
+}
+/*html*/
+.html,.css,.bootstrap{
+	width: 48px;
+	height: 50px;
+	margin: 0 auto;
+}
+.html{
+	background:url("../img/html-css.png") 2px 0 no-repeat;
+}
+.css{
+	background:url("../img/html-css.png") -53px 0 no-repeat;
+}
+.bootstrap{
+	background:url("../img/bootstrap.png") 0 0 no-repeat;
+}
+.jQuery{
+	width: 100px;
+	height: 37px;
+	margin: 0 auto;
+	background:url("../img/jquery.png") 0 0 no-repeat;
+
+}
+
+/*背景三*/
+.bg-three{
+	width: 100%;
+	height: 650px;
+	background: url("../img/bg/bangWan.jpg") 0 0 no-repeat;
+	position: relative;
+}
+.isBorder-three{
+	width: 400px;
+	height: 350px;
+	border:3px solid #FF5511;
+	box-shadow: 0 0 10px #C63300;
+	position: absolute;
+	top: 150px;
+	left: 50%;
+	margin-left: -200px;
+}
+.three{
+	width: 400px;
+	height: 350px;
+	position: absolute;
+	left: 50%;
+	margin-left: -200px;
+}
+.three h3{
+	text-align: center;
+	margin-top:200px;
+	color: #fff;
+}
+.contact,.num{
+	margin-top: 50px;
+}
+.contact li{
+	text-align: right;
+	color: #fff;
+}
+.num li{
+	color: #fff;
+}
+
